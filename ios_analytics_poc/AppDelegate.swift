@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import Amplitude_iOS
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
